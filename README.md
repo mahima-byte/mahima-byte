@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahima-byte
+- 👋 Hi, I’m @Mahima_Raj
 - 👀 I’m interested in web app development..
 - 🌱 I’m currently learning Asp.Net,MVC and core...
 - I have learned basics of Django and python
